@@ -1,5 +1,5 @@
 .iden identified
-
+;this is a comment line and has no effect
 .push Pushback and Startup approved ,QNH $altim($dep)
 .taxi taxi to holding point of Runway $deprwy($dep) via taxiway $1
 .taxi2g taxi to gate of your choice, Report on blocks
